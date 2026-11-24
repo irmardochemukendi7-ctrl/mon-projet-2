@@ -1,0 +1,29 @@
+PHOTOS A AJOUTER dans ce dossier img/ (JPG, moins de 300 Ko chacune)
+hero.jpg  1600x900  fond de l’accueil
+soutien.jpg  1600x600  bandeau « Agissez avec nous »
+histoire.jpg  800x600  page Présentation, à côté de « Notre histoire »
+accueil-1.jpg  1200x800  accueil, section « L’ONG en images »
+accueil-2.jpg  1200x800  accueil, section « L’ONG en images »
+accueil-3.jpg  1200x800  accueil, section « L’ONG en images »
+accueil-4.jpg  1200x800  accueil, section « L’ONG en images »
+equipe-1.jpg  600x600 (carré)  profil du membre n°1 de l’équipe
+equipe-2.jpg  600x600 (carré)  profil du membre n°2 de l’équipe
+equipe-3.jpg  600x600 (carré)  profil du membre n°3 de l’équipe
+equipe-4.jpg  600x600 (carré)  profil du membre n°4 de l’équipe
+projet-ecole-1.jpg  800x500  projet École pour tous, photo 1
+projet-ecole-2.jpg  800x500  projet École pour tous, photo 2
+projet-ecole-3.jpg  800x500  projet École pour tous, photo 3
+projet-ecole-4.jpg  800x500  projet École pour tous, photo 4
+projet-eau-1.jpg  800x500  projet Eau propre, photo 1
+projet-eau-2.jpg  800x500  projet Eau propre, photo 2
+projet-eau-3.jpg  800x500  projet Eau propre, photo 3
+projet-eau-4.jpg  800x500  projet Eau propre, photo 4
+projet-sante-1.jpg  800x500  projet Santé de proximité, photo 1
+projet-sante-2.jpg  800x500  projet Santé de proximité, photo 2
+projet-sante-3.jpg  800x500  projet Santé de proximité, photo 3
+projet-sante-4.jpg  800x500  projet Santé de proximité, photo 4
+projet-jeunes-1.jpg  800x500  projet Jeunes entrepreneurs, photo 1
+projet-jeunes-2.jpg  800x500  projet Jeunes entrepreneurs, photo 2
+projet-jeunes-3.jpg  800x500  projet Jeunes entrepreneurs, photo 3
+projet-jeunes-4.jpg  800x500  projet Jeunes entrepreneurs, photo 4
+Tant qu’une photo manque, une zone de couleur avec une icône (ou les initiales) s’affiche à sa place.
